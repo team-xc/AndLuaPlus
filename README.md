@@ -8,3 +8,6 @@ AndLua+是由Alone开发的在PC平台使用Lua语言开发应用程序的工具
 程序截图
 ![image text]
 (https://github.com/LingYang8/AndLuaPlus/blob/master/1.PNG)
+
+![image text]
+(https://github.com/LingYang8/AndLuaPlus/blob/master/2.PNG)
