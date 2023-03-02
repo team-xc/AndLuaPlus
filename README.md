@@ -1,5 +1,5 @@
 # AndLuaPlus
-AndLua+是由Alone开发的在PC平台使用Lua语言开发应用程序的工具。
+AndLua+是使用Lua语言开发应用程序的工具。
 基于.net framework 4.5开发。
 在使用之前建议详细阅读程序自带帮助文档或阅读Lua官方文档。 
 用户协议
